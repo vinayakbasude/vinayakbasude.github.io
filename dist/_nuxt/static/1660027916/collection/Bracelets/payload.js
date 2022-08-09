@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/collection/Bracelets", {data:[{slug:"Bracelets",collection:{data:{collection:{handle:"bracelets",products:{edges:[{node:{handle:"choker-with-gold-pendant"}}]}}}}}],fetch:{},mutations:void 0});

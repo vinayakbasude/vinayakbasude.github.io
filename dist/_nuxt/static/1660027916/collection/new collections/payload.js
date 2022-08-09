@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/collection/new%20collections", {data:[{slug:"new collections",collection:{data:{collection:null}}}],fetch:{},mutations:void 0});
