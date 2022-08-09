@@ -1,0 +1,58 @@
+{
+  "id": "second_slice_demo",
+  "type": "SharedSlice",
+  "name": "SecondSliceDemo",
+  "description": "SecondSliceDemo",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "SecondSliceDemo",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "single": "heading1",
+            "label": "Title",
+            "placeholder": "This is where it all begins..."
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "single": "paragraph",
+            "label": "Description",
+            "placeholder": "A nice description of your product"
+          }
+        },
+        "photoSice": {
+          "type": "Image",
+          "config": {
+            "label": "Photo Sice",
+            "constraint": {
+              "width": 100,
+              "height": 100
+            },
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {
+        "select": {
+          "type": "Select",
+          "config": {
+            "label": "Select",
+            "placeholder": "",
+            "options": [
+              "1",
+              "2"
+            ]
+          }
+        }
+      },
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

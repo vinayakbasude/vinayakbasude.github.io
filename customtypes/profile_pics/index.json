@@ -1,0 +1,30 @@
+{
+  "id": "profile_pics",
+  "label": "profile_pics",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "user_name": {
+        "type": "StructuredText",
+        "config": {
+          "label": "User Name",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "my_third_slice_for_repeat": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

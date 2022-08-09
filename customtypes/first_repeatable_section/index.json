@@ -1,0 +1,38 @@
+{
+  "id": "first_repeatable_section",
+  "label": "first repeatable section",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "my_repeat": {
+        "type": "Image",
+        "config": {
+          "label": "My Repeat",
+          "constraint": {
+            "width": 100,
+            "height": 100
+          },
+          "thumbnails": []
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "my_first_slic": {
+              "type": "SharedSlice"
+            },
+            "second_slice_demo": {
+              "type": "SharedSlice"
+            },
+            "my_third_slice_for_repeat": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

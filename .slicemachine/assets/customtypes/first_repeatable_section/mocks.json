@@ -1,0 +1,16 @@
+{
+  "id": "022ff1e0-1d87-4f5c-afe4-1f170b7ffada",
+  "uid": "eveniet-animi-dolor",
+  "type": "first_repeatable_section",
+  "data": {
+    "my_repeat": {
+      "dimensions": {
+        "width": 100,
+        "height": 100
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1555169062-013468b47731?w=100&h=100&fit=crop"
+    }
+  }
+}

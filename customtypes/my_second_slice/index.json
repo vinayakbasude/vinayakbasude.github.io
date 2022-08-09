@@ -1,0 +1,29 @@
+{
+  "id": "my_second_slice",
+  "label": "my second slice",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "static_zone_img": {
+        "type": "Image",
+        "config": {
+          "label": "Static Zone Img",
+          "constraint": {},
+          "thumbnails": []
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "my_first_slice": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "my_first_slice",
+  "label": "my first slice",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "date_field": {
+        "type": "Date",
+        "config": {
+          "label": "Date Field",
+          "placeholder": ""
+        }
+      }
+    }
+  }
+}
