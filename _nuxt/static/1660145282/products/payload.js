@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/products", (function(a){return {data:[{}],fetch:{"0":{_error:{message:"request to https:\u002F\u002Fpartnercreation1.myshopify.com\u002Fapi\u002F2022-07\u002Fgraphql.json failed, reason: getaddrinfo ENOTFOUND partnercreation1.myshopify.com",type:"system",errno:a,code:a,statusCode:500}}},mutations:void 0}}("ENOTFOUND")));

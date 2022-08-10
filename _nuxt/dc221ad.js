@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{282:function(n,e,l){"use strict";l.r(e);var r={name:"CircleFrame"},t=l(50),component=Object(t.a)(r,(function(){return(0,this._self._c)("h1",[this._v("\n    Circle frame\n")])}),[],!1,null,null,null);e.default=component.exports}}]);

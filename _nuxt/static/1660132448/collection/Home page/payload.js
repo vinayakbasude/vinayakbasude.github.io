@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/collection/Home%20page", {data:[{slug:"Home page",collection:{data:{collection:null}}}],fetch:{},mutations:void 0});

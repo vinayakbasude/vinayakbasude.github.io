@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{283:function(e,n,r){"use strict";r.r(n);var t={name:"SquareFrame"},l=r(50),component=Object(l.a)(t,(function(){return(0,this._self._c)("h1",[this._v("Square frame")])}),[],!1,null,null,null);n.default=component.exports}}]);

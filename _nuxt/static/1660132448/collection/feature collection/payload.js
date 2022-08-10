@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/collection/feature%20collection", {data:[{slug:"feature collection",collection:{data:{collection:null}}}],fetch:{},mutations:void 0});
